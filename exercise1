@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+<title> Kahvila Tampere | Tervetuloa herkuttelemaan!
+</title>
+</head>
+<body>
+<center><img src="P:\web-kehitys\HTML\logo.png"></center>
+<center><a href="http://www.google.com">ETUSIVU</a>
+<a href="http://www.google.com">LEIVONNAISET</a>
+<a href="http://www.google.com">AAMIAINEN</a>
+<a href="http://www.google.com">LOUNAS</a>
+<a href="http://www.google.com">YHTEYDENOTTO</a></center>
+
+<h1><center>Makunautintoja aamiaiasesta lounaaseen</center></h1>
+<h2>Viihtyisä kahvila Tampereen sydämessä</h2>
+<p>Kahvila Aamurusko on viihtyisä ja ystävällisen palvelun lounaskahvila Tampereen keskustassa, 
+    Tammelan alueella. Meillä voit aloittaa päiväsi nauttimalla monipuolisen ja maukkaan aamiaisen. 
+    Kahvila Aamuruskosta saat runsaan aamiaisen lisäksi myös maistuvat lounaat. Katso lounaslistamme!
+</p>
+<h3>Tervetuloa herkuttelemaan</h3>
+<p>Kahvilassamme on aina tarjolla monipuolinen valikoima herkullisia itseleivottuja pullia ja munkkeja sekä suolaisia piirakoita. 
+    Aamuruskon mukavalla sohvakalustolla on rauhalliset puitteet lukea päivän lehti tai nauttia hyvässä seurassa maukkaasta ruuasta 
+    ja leivonnaisista tuoreen kahvin kera.
+<br>
+        
+        Kahvilastamme saat joka päivä tuoreet leivonnaiset, tule maistamaan. Tervetuloa viihtymään ja herkuttelemaan Aamuruskoon!
+<br>
+<br>
+        <b>Opiskelija-alennus -10 %.
+<br>
+<br>
+        Kahvilastamme löytyy Wifi.</b>
+
+</p>
+<h4>Olemme SoMessa:</h4>
+<img src="P:\web-kehitys\HTML\facebook">
+<img src="P:\web-kehitys\HTML\instagram">
+</body>
+</html>
