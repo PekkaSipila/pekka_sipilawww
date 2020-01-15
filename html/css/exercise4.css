@@ -1,0 +1,42 @@
+.flexContainer {
+    display:flex;
+    background-color: rgb(245, 189, 189);
+    align-content: space-between;
+    flex-wrap:wrap;
+}
+
+.flexContainer > div, .flexcolumn > div {
+    background-color: yellow;
+    margin:10px;
+    text-align:center;
+    line-height:50px;
+    font-size:30px;
+    width: fit-content;
+}
+
+.flexcolumn {
+    display: flex;
+    background-color: rgb(236, 236, 236);
+    flex-direction: column;
+    min-height:330px;
+}
+
+.box {
+    float:left;
+    width:200px;
+    background-color: yellow;
+    min-height:400px;
+}
+
+header {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+    color:rgb(255, 0, 0);
+    height: 150px;
+    background-color: white;
+}
+footer {
+    height: 60px;
+    color: white;
+    background-color: black;
+}
