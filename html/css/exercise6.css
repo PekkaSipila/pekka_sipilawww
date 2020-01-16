@@ -1,0 +1,16 @@
+.container {
+    background-color: white;
+    max-width: 990px;
+}
+body {
+    font-family: Courier New, Courier, monospace;
+    background-image: url(background.jpg);
+}
+footer {
+    height: 100px;
+    font-size: small;
+}
+a {
+    color:black;
+    text-decoration:none;
+}
